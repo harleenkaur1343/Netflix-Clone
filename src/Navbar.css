@@ -1,0 +1,17 @@
+.nav{
+    position:fixed;
+    top:0;
+    z-index:1; 
+    height:70px;
+    background:transparent;
+    transition:all 0.4s;
+    width:100%;
+}
+
+.logo{
+    width:130px;
+    object-fit: contain;
+}
+.showBg{
+    background-color: #111;
+}
